@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Faculty theme\n"
+"POT-Creation-Date: 2014-02-17 13:23+0330\n"
+"PO-Revision-Date: 2014-03-26 15:00+0330\n"
+"Last-Translator: owwwlab <owwwlab@gmail.com>\n"
+"Language-Team: owwwlab <owwwlab@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:60 ../comments.php:69
+msgid "(required)"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:473
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions.php:477
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:482
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../header.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/type-gallery.php:6 ../includes/type-gallery.php:7
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:8 ../includes/type-publications.php:8
+msgid "Add New"
+msgstr ""
+
+#: ../includes/type-gallery.php:9
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:10
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:11
+msgid "New Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:12
+msgid "View Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:13
+msgid "Search Gallery"
+msgstr ""
+
+#: ../includes/type-gallery.php:14
+msgid "No galleries found"
+msgstr ""
+
+#: ../includes/type-gallery.php:15
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: ../includes/type-gallery.php:69
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:18
+msgid "Publication Title"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:19
+msgid "Title of the Publication"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:24
+msgid "Publication Year"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:25
+msgid "Year of the Publication, eg:2014"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:30
+msgid "Authors"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:31
+msgid "List of authors , eg:Jennifer Doe, Emily N. Garbinsky, Kathleen D. Vohs"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:36
+msgid "Citation"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:37
+msgid ""
+"for example: Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, "
+"Pages 191-194"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:42
+msgid "External Link"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:43
+msgid ""
+"Link to publishe website ex: http://www.sciencedirect.com/science/article/"
+"pii/S1057740812000290"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:48
+msgid "File"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:49
+msgid "Document file (pdf,doc)"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:171
+msgid "Remove file"
+msgstr ""
+
+#: ../includes/type-publications-meta-box.php:182
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/type-publications.php:6
+msgid "Publications"
+msgstr ""
+
+#: ../includes/type-publications.php:7
+msgid "Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:9
+msgid "Add New Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:10
+msgid "Edit Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:11
+msgid "New Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:12
+msgid "View Publication"
+msgstr ""
+
+#: ../includes/type-publications.php:13
+msgid "Search Publications"
+msgstr ""
+
+#: ../includes/type-publications.php:14
+msgid "No Publications found"
+msgstr ""
+
+#: ../includes/type-publications.php:15
+msgid "No Publications found in Trash"
+msgstr ""
+
+#: ../index.php:24 ../single.php:6
+msgid "List"
+msgstr ""
+
+#: ../index.php:44 ../single.php:114
+msgid "Posts"
+msgstr ""
+
+#: ../loop.php:20 ../single.php:133
+msgid "posts"
+msgstr ""
+
+#: ../loop.php:50
+msgid "No posts"
+msgstr ""
+
+#: ../page-publications.php:35
+msgid "Filter by type:"
+msgstr ""
+
+#: ../page-publications.php:40
+msgid "All types"
+msgstr ""
+
+#: ../page-publications.php:97
+msgid "Download"
+msgstr ""
+
+#: ../single.php:162
+msgid "No Posts"
+msgstr ""

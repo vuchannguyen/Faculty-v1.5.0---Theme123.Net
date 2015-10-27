@@ -1,0 +1,53 @@
+- v1.0 -- 11 February 14
+    -initial release
+
+- v1.2 -- 13 February 14
+    - Menu ajax pages fixed
+    - Ajax-disabled publication and gallery templates fixed
+    - Documentation updated
+
+-v1.3 -- 17 February 14
+	- thumbnail.png changed
+	- facebook share fixed
+	- twitter sahre added
+	- some color options fixed
+	- po file updated
+	- added thumnails to blog list (optional)
+
+- v1.4 -- 25 February 14
+	
+	** CAUTION ** back-up your project descriptions first, after update to 1.4 you will have to re-fill project descriptions
+
+	- documentation updated
+	- stellar.js depricated and removed
+	- sidebar responsive bug fixed
+	- analytics code fixed
+	- publications upload button bug fixed
+	- visual composer : image for single award is optional now
+	- visual composer : year filed for single position is optional now
+	- visual composer : lab carousle's link is optional now
+	- visual composer : lab carousel's hyperlink text is configurable now
+	- visual composer : single project bug is fixed and now accepts images and hyperlinks as well
+
+- v1.5 -- 27 March 14
+	- publication drop-down is fixed.
+	- publications sort by date, fixed.
+	- multiple category for publications, fixed.
+	- alternative filter layout added to publications page. You can switch between layouts from theme options now. 
+	- publication details (content) can be empty now.
+	- added alternative compact layout for publications. You can switch between layouts from theme options now.
+	- preset filtering on page load of publications added.
+	- awwards accordion bug fixed.
+	- visual composer plugin updated ~ default project image will be used if no image is selected.
+	- blog single sidebar bug fixed.
+	- Now you can choose if you want to load blog post via ajax or nor via theme options.
+	- social icons black-box fixed.
+	- 10 social icons available now.
+	- added copyright text as a theme option. 
+	- sidebar picture is linked to homepage.
+	- fancy scrollbars are now optional you can enable/disable it.
+	- circle wrap around the profile picture is optional now.
+
+
+
+
